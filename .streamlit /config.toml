@@ -1,2 +1,7 @@
 [theme]
 base = "light"
+primaryColor = "#2fb8a3"          # aurora teal — slider handle, active radio
+backgroundColor = "#f4f7fa"       # app background (matches the dashboard)
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1f3142"             # dark slate — makes all widget text visible
+font = "sans serif"
